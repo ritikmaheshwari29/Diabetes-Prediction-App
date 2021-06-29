@@ -1,5 +1,3 @@
-# Diabetes-Prediction
-
 # [Diabetes Prediction App](https://diabetes-prediction29.herokuapp.com/)
 This project is an end to end data science project that is able to predict whether the person is Diabetic or not.<br><br>
 ![](SplashScreen.gif)
@@ -19,6 +17,13 @@ This project is an end to end data science project that is able to predict wheth
  a. Created the ML model and saved it using pickle.<br>
  b. Created app.py and the webpage page it will render to.<br>
  c. Created an Procfile.<br>
+ 
+ # Steps to follow to check logs:
+ 1)	Open Command Prompt
+ 2)	Write heroku
+ 3)	Login to heroku account using command: heroku login
+ 4)	Check logs using command: heroku logs --app APPName
+
  
  # Project Created by:
   [Ritik Maheshwari](https://www.linkedin.com/in/ritik-maheshwari-065017166/) 
