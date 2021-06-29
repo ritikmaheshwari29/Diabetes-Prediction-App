@@ -22,9 +22,6 @@ certifi==2020.6.20
 chardet==3.0.4
 chart-studio==1.1.0
 click==7.1.2
-conda==4.10.1
-conda-build==3.20.5
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cycler==0.10.0
 cytoolz==0.11.0
@@ -41,7 +38,6 @@ requests==2.25.1
 scikit-learn==0.24.2
 scipy==1.6.3
 sklearn==0.0
-flasgger==0.9.5
 Flask==1.1.2
 Flask-Cors==3.0.10
 folium==0.12.1
