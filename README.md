@@ -2,7 +2,7 @@
 
 # [Diabetes Prediction App](https://diabetes-prediction29.herokuapp.com/)
 This project is an end to end data science project that is able to predict whether the person is Diabetic or not.<br><br>
-![](screen.gif)
+![](SplashScreen.gif)
 
 # Dataset Used
 1. [Diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database): Pima Indian Diabetes Dataset
